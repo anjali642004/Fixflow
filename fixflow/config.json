@@ -1,0 +1,24 @@
+{
+    "cost_center": [
+        "Hyderabad",
+        "karimnagar"
+    ],
+    "projects": [
+        "Project 1"
+    ],
+    "departments": [
+        "Supply chain"
+    ],
+    "assignors": [],
+    "categorization_1": [
+        "Conveyor System",
+        "Packaging Line",
+        "POS System"
+    ],
+    "categorization_2": [
+        "Electrical",
+        "Inventory",
+        " IoT Sensor Check"
+    ],
+    "technicians": []
+}

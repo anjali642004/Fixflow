@@ -1,0 +1,19 @@
+{
+    "super_admin": {
+        "superadmin": "$2b$12$ED2Q5Y2uNABVkjYhiCEyye7SHADqBpjxwvPV3tFnLudSa426T.6se"
+    },
+    "admin": {
+        "admin": "$2b$12$FfEmpZ56rZx8kGc7X1NeCuEh9YSoZPoLHjlq6Em/vM/B.8pA7m83O",
+        "anjali": "$2b$12$51BQ0Aynd1WzxjpmnS.TveeVW1eZ/wq4K.c3rjNgonIMMBkos5tW2",
+        "romil": "$2b$12$.m4jxWD4q5LD7KVgsWmLyeBlUDXGj75AvHVNxTagc1mKvXX62Nq7a",
+        "rahul": "$2b$12$R9.B4xvVOC63h8oNhcJYU.CpZ2yz3VVYGgD.yr3vmvLOLynQ6IhV.",
+        "spandana": "$2b$12$rslZLrlvITX5CNKc.WiPzu8Kdw5wD2CmBoYQMWnoL0SpFiNHmaCMS"
+    },
+    "users": {
+        "anjali": "$2b$12$OK4d0XYZ2WogD994/HVPk.5YdlsyTUys37YGpbykB76YJOOifDade",
+        "ujwal": "$2b$12$mO8SSyFlV.c8aSxBtgYqL.2Dp2gfIxDpca10rEMHq1iWkkGwGIkuO",
+        "lucky": "$2b$12$TGnmJgQcurbP/qVukxNo..FebyCe0xGhluGHJ.OW.S30q3b5.TiPC",
+        "padma": "$2b$12$/ZShcEPDo4B5G51TjYVNF.qcXnBYwLtI5LNaxC/DMd.kyi.66.f5a",
+        "rakshith": "$2b$12$qtycH0Ucx5n0p2Odyr/yLeQo9p.PytwcmnmO05tjSNC5N5D5DHgUW"
+    }
+}
