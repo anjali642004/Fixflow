@@ -1,4 +1,4 @@
-# Skyroot Aerospace Task Management System
+# Task Management System
 
 A modern, interactive task management system built with Streamlit for Skyroot Aerospace. Features role-based access control, task assignment, progress tracking, and advanced data visualizations.
 
