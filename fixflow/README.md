@@ -1,4 +1,4 @@
-# Task Management System
+# Team Fix Flow Task Management System
 
 A modern, interactive task management system built with Streamlit for Skyroot Aerospace. Features role-based access control, task assignment, progress tracking, and advanced data visualizations.
 
@@ -60,4 +60,8 @@ The Technician Task Overview includes:
 - `requirements.txt`: Python dependencies
 - `config.json`: Configuration settings
 - `users.json`: User data storage
-- `tasks.json`: Task data storage 
+- `tasks.json`: Task data storage
+
+## Team Members
+Anjali Garrepalli
+Spandana Akkala
